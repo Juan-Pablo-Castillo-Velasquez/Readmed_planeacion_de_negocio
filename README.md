@@ -1,5 +1,5 @@
-# Readmed_planeacion_de_negocio
+# planeacion_de_negocio
 
 
 ****
-* hola
+<h1 aling="center">EcoFin🌱💳</h1>
