@@ -2,8 +2,9 @@
 
 Plataforma financiera digital con enfoque sostenible, diseñada para fomentar el ahorro, ofrecer acceso justo al crédito e incentivar prácticas responsables y ambientalmente conscientes.  
 <p align="center">
-  <img src="[assets/portada.png](https://drive.google.com/drive/folders/1aMYZrNEbACdTQmi9GAaWYRrKlmrhn4Kp?dmr=1&ec=wgc-drive-globalnav-goto)" alt="EcoFin" width="600">
+  <img src="https://drive.google.com/uc?export=view&id=ID_DE_LA_IMAGEN" alt="EcoFin" width="600">
 </p>
+
 
 ---
 
