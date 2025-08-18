@@ -1,6 +1,9 @@
 # 🌱💳 EcoFin - Fintech Verde Colombia  
 
 Plataforma financiera digital con enfoque sostenible, diseñada para fomentar el ahorro, ofrecer acceso justo al crédito e incentivar prácticas responsables y ambientalmente conscientes.  
+<p align="center">
+  <img src="assets/portada.png" alt="EcoFin" width="600">
+</p>
 
 ---
 
