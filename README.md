@@ -5,21 +5,13 @@ Plataforma financiera digital con enfoque sostenible, diseñada para fomentar el
 ---
 
 ## 📑 Tabla de Contenido
-- [1. Propuesta de Valor](#-1-propuesta-de-valor)
-- [2. Segmentos de Clientes](#-2-segmentos-de-clientes)
-- [3. Canales](#-3-canales)
-- [4. Relación con los Clientes](#-4-relación-con-los-clientes)
-- [5. Fuentes de Ingreso](#-5-fuentes-de-ingreso)
-- [6. Recursos Clave](#-6-recursos-clave)
-- [7. Actividades Clave](#-7-actividades-clave)
-- [8. Socios Clave](#-8-socios-clave)
-- [9. Estructura de Costos](#-9-estructura-de-costos)
-- [Características Innovadoras](#-características-innovadoras)
-- [Plan de Expansión](#-plan-de-expansión)
-- [Objetivos SMART 2025-2027](#-objetivos-smart-2025-2027)
-- [Ideas Adicionales](#-ideas-adicionales)
-- [Resumen General](#-resumen-general)
-- [Contribuidores](#-contribuidores)
+
+| [1. Propuesta de Valor](#-1-propuesta-de-valor) | [2. Segmentos de Clientes](#-2-segmentos-de-clientes) | [3. Canales](#-3-canales) |
+|-----------------------------------------------|----------------------------------------------------|---------------------------|
+| [4. Relación con los Clientes](#-4-relación-con-los-clientes) | [5. Fuentes de Ingreso](#-5-fuentes-de-ingreso) | [6. Recursos Clave](#-6-recursos-clave) |
+| [7. Actividades Clave](#-7-actividades-clave) | [8. Socios Clave](#-8-socios-clave) | [9. Estructura de Costos](#-9-estructura-de-costos) |
+| [10. Características Innovadoras](#-características-innovadoras) | [11. Plan de Expansión](#-plan-de-expansión) | [12. Objetivos SMART 2025-2027](#-objetivos-smart-2025-2027) |
+| [13. Ideas Adicionales](#-ideas-adicionales) | [14. Resumen General](#-resumen-general) | [15. Contribuidores](#-contribuidores) |
 
 ---
 
