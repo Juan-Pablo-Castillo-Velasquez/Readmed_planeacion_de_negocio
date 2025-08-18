@@ -194,12 +194,12 @@ Este proyecto ha sido posible gracias a las contribuciones de:
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/106933531?v=4" width="100" height="100" style="border-radius:50%;"><br>
       <strong>Desarrollor Ecofin</strong><br>
-      <a href="mailto:correo@jhon">correo@jhon</a>
+      <a href="mailto:john.cortes.r@gmail.com"john.cortes.r@gmail.com /a>
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/198638236?v=4" width="100" height="100" style="border-radius:50%;"><br>
       <strong>Modelo de Negocio</strong><br>
-      <a href="mailto:correo@fernando">correo@fernando</a>
+      <a href="mailto:fernandogutierrezrojas09@gmail.com">fernandogutierrezrojas09@gmail.com</a>
     </td>
   </tr>
 </table>
