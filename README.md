@@ -220,7 +220,7 @@ Este proyecto ha sido posible gracias a las contribuciones de:
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/198638236?v=4" width="100" height="100" style="border-radius:50%;"><br>
-      <strong>Director de Marketing Internacional o Director de Adquisición de Clientes</strong><br>
+      <strong>Director de Marketing Internacional</strong><br>
       <a href="mailto:fernandogutierrezrojas09@gmail.com">fernandogutierrezrojas09@gmail.com</a>
     </td>
   </tr>
