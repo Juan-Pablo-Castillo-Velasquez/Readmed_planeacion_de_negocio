@@ -162,9 +162,9 @@ Plataforma financiera digital con enfoque sostenible, diseñada para fomentar el
 ---
 
 ## 👥 Contribuidores
-- 💡 **Idea & Planeación**: [Tu nombre o equipo]  
-- 👨‍💻 **Desarrollo**: *Equipo de Tecnología EcoFin*  
-- 📊 **Modelo de Negocio**: *Equipo Estratégico*  
+- 💡 **Idea & Planeación**: [Juan Pablo Castillo]  
+- 👨‍💻 **Desarrollo**: *Jhon EcoFin*  
+- 📊 **Modelo de Negocio**: *Fernando Estratégico*  
 - 🌱 **Sostenibilidad**: *Aliados ambientales y sociales*  
 
 ---
