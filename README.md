@@ -195,14 +195,6 @@ La **Dirección Comercial** de EcoFin / Fintech Verde Colombia gestiona la estra
 
 ---
 
-## 📊 Resumen General
-
-| 🚀 Modelo de Negocio | 🌟 Características Innovadoras | 🌍 Expansión | 🎯 SMART 2025-2027 | 💡 Ideas Adicionales | 👥 Contribuidores |
-|-----------------------|--------------------------------|-------------|--------------------|----------------------|------------------|
-| Cashback verde, inclusión financiera, microseguros, educación financiera | Cashback (10%), CDTs desde $500.000, gamificación, marketplace sostenible, donaciones integradas | F1: Costa Rica (USD $500K / 6-12m) <br> F2: Guatemala (95% PYMEs sin crédito) <br> F3: Panamá (hub financiero) | 1. Operar en CR <br> 2. 2,500 clientes <br> 3. USD $800M en 2 años <br> 4. Onboarding < 4 sem <br> 5. 10 alianzas | Alertas, ahorro colaborativo, inversión verde/social, optimización fiscal | 💡 Idea: Juan P. Castillo <br> 👨‍💻 Desarrollo: Jhon EcoFin <br> 📊 Modelo: Fernando Estratégico <br> 🌱 Sostenibilidad: Aliados |
-
----
-
 ## 👥 Contribuidores
 Este proyecto ha sido posible gracias a las contribuciones de:
 
