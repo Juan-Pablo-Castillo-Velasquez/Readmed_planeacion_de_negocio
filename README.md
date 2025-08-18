@@ -1,24 +1,103 @@
-# 🌱💳 EcoFin - Fintech Verde Colombia
+# 🌱💳 EcoFin - Fintech Verde Colombia  
 
 Plataforma financiera digital con enfoque sostenible, diseñada para fomentar el ahorro, ofrecer acceso justo al crédito, e incentivar prácticas responsables y ambientalmente conscientes.  
 
 ---
 
 ## 📑 Tabla de Contenido
-- [Modelo de Negocio](#-modelo-de-negocio)
+- [1. Propuesta de Valor](#-1-propuesta-de-valor)
+- [2. Segmentos de Clientes](#-2-segmentos-de-clientes)
+- [3. Canales](#-3-canales)
+- [4. Relación con los Clientes](#-4-relación-con-los-clientes)
+- [5. Fuentes de Ingreso](#-5-fuentes-de-ingreso)
+- [6. Recursos Clave](#-6-recursos-clave)
+- [7. Actividades Clave](#-7-actividades-clave)
+- [8. Socios Clave](#-8-socios-clave)
+- [9. Estructura de Costos](#-9-estructura-de-costos)
 - [Características Innovadoras](#-características-innovadoras)
 - [Plan de Expansión](#-plan-de-expansión)
 - [Objetivos SMART 2025-2027](#-objetivos-smart-2025-2027)
 - [Ideas Adicionales](#-ideas-adicionales)
+- [Resumen General](#-resumen-general)
 - [Contribuidores](#-contribuidores)
 
 ---
 
-## 📊 Modelo de Negocio
+## 🔑 1. Propuesta de Valor
+- Cashback y recompensas por uso responsable y sostenible.  
+- Productos financieros accesibles (CDTs, microseguros, créditos).  
+- Educación financiera interactiva dentro de la app.  
+- Personalización de productos según perfil e intereses.  
+- Inclusión financiera y fomento del ahorro verde.  
 
-| **Propuesta de Valor** | **Segmentos de Clientes** | **Canales** | **Relación con Clientes** | **Fuentes de Ingreso** | **Recursos Clave** | **Actividades Clave** | **Socios Clave** | **Estructura de Costos** |
-|-------------------------|---------------------------|-------------|---------------------------|------------------------|--------------------|-----------------------|------------------|---------------------------|
-| Cashback verde (10%), microseguros, CDTs desde $500.000, educación financiera, personalización, inclusión financiera | Jóvenes, PYMEs sostenibles, familias no bancarizadas, independientes, consumidores con conciencia social | App móvil/web, redes sociales, alianzas con universidades/ONGs/empresas, comercios aliados | Fidelización, gamificación, soporte extendido, comunidad digital | Intereses de ahorro/crédito, comisiones, microseguros, programas de fidelización con aliados | Tecnología propia, talento especializado, cloud (AWS/GCP), capital regulatorio, aliados estratégicos | Desarrollo ecosistema, cumplimiento normativo, adquisición/fidelización, educación financiera, expansión internacional | Universidades, certificadoras, cámaras de comercio, entidades financieras, ONGs, plataformas tecnológicas | Regulatorios y licencias, desarrollo y mantenimiento, marketing, recompensas, soporte y operaciones |
+---
+
+## 👥 2. Segmentos de Clientes
+- Estudiantes y jóvenes profesionales.  
+- Empresas y PYMEs sostenibles.  
+- Familias no bancarizadas.  
+- Trabajadores independientes.  
+- Consumidores con enfoque social/ambiental.  
+
+---
+
+## 🌐 3. Canales
+- App móvil (Android / iOS) y plataforma web.  
+- Redes sociales y marketing digital B2B/B2C.  
+- Alianzas con universidades, ONGs y empresas.  
+- Comercio aliado (ecosistema financiero con beneficios integrados).  
+
+---
+
+## ❤️ 4. Relación con los Clientes
+- Programas de fidelización, recompensas y referidos.  
+- Gamificación: badges, niveles y logros.  
+- Atención personalizada y soporte técnico extendido.  
+- Comunidad digital: retos, consejos y contenidos.  
+
+---
+
+## 💵 5. Fuentes de Ingreso
+- Intereses por productos de ahorro y crédito.  
+- Comisiones de transacción y convenios comerciales.  
+- Microseguros y servicios financieros adicionales.  
+- Programas de fidelización pagados por aliados.  
+
+---
+
+## 🛠️ 6. Recursos Clave
+- Tecnología (algoritmos propios, backend escalable, apps nativas).  
+- Talento humano especializado (devs, legales, comerciales, etc.).  
+- Infraestructura cloud segura (AWS / GCP).  
+- Capital regulatorio para expansión internacional.  
+- Red de aliados estratégicos (certificadoras, gremios, fintechs).  
+
+---
+
+## 🔧 7. Actividades Clave
+- Desarrollo y mantenimiento del ecosistema digital.  
+- Cumplimiento normativo en cada país.  
+- Adquisición y fidelización de usuarios.  
+- Educación financiera y contenidos.  
+- Expansión geográfica y benchmarking internacional.  
+
+---
+
+## 🤝 8. Socios Clave
+- Universidades y certificadoras ambientales.  
+- Cámaras de comercio y gremios.  
+- Entidades financieras locales e internacionales.  
+- ONGs y programas de impacto verde.  
+- Plataformas tecnológicas (cloud, ciberseguridad, pagos).  
+
+---
+
+## 💸 9. Estructura de Costos
+- Costos regulatorios y legales (licencias, compliance).  
+- Desarrollo tecnológico y mantenimiento.  
+- Marketing y adquisición de usuarios.  
+- Programas de recompensas y beneficios.  
+- Soporte técnico y operaciones.  
 
 ---
 
@@ -44,7 +123,7 @@ Plataforma financiera digital con enfoque sostenible, diseñada para fomentar el
 
 ---
 
-## 📈 Objetivos SMART (2025-2027)
+## 📈 Objetivos SMART 2025-2027
 1. 🏁 **Establecer operaciones en Costa Rica en los próximos 6 meses.**  
 2. 👥 **Adquirir 2,500 clientes empresariales en 24 meses.**  
 3. 💳 **Procesar USD $800M en transacciones dentro de 2 años.**  
@@ -58,6 +137,14 @@ Plataforma financiera digital con enfoque sostenible, diseñada para fomentar el
 - **Planes familiares y grupales**: ahorro colaborativo y beneficios cruzados.  
 - **Inversión verde/social**: acceso a fondos de impacto desde la app.  
 - **Optimización fiscal**: análisis y adaptación a impuestos locales (como 4x1000 en Colombia).  
+
+---
+
+## 📊 Resumen General
+
+| 🚀 **Modelo de Negocio** | 🌟 **Características Innovadoras** | 🌍 **Plan de Expansión** | 🎯 **Objetivos SMART 2025-2027** | 💡 **Ideas Adicionales** | 👥 **Contribuidores** |
+|---------------------------|-----------------------------------|--------------------------|----------------------------------|--------------------------|------------------------|
+| Cashback verde, inclusión financiera, microseguros, educación financiera, productos personalizados | Cashback verde (10%), CDTs desde $500.000, microseguros, gamificación, marketplace sostenible, donaciones integradas | Fase 1: Costa Rica (USD $500K / 6-12 meses). <br> Fase 2: Guatemala (95% PYMEs sin crédito). <br> Fase 3: Panamá (hub financiero, dolarización) | 1. Operar en Costa Rica en 6 meses. <br> 2. 2,500 clientes empresariales en 24 meses. <br> 3. USD $800M en transacciones en 2 años. <br> 4. Onboarding < 4 semanas. <br> 5. 10 alianzas estratégicas | Alertas inteligentes, ahorro colaborativo, inversión verde/social, optimización fiscal local | 💡 Idea & Planeación: [Tu nombre] <br> 👨‍💻 Desarrollo: *Equipo de Tecnología* <br> 📊 Modelo: *Equipo Estratégico* <br> 🌱 Sostenibilidad: *Aliados* |
 
 ---
 
