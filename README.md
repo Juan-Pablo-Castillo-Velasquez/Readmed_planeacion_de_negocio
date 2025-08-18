@@ -4,16 +4,36 @@ Plataforma financiera digital con enfoque sostenible, diseñada para fomentar el
 
 ---
 
-
-
 ## 📑 Tabla de Contenido
 
-| 🚀 [1. Propuesta de Valor](#-1-propuesta-de-valor) | 👥 [2. Segmentos de Clientes](#-2-segmentos-de-clientes) | 🌐 [3. Canales](#-3-canales) |
-|---------------------------------------------------|---------------------------------------------------------|------------------------------|
-| ❤️ [4. Relación con los Clientes](#-4-relación-con-los-clientes) | 💵 [5. Fuentes de Ingreso](#-5-fuentes-de-ingreso) | 🛠️ [6. Recursos Clave](#-6-recursos-clave) |
-| 🔧 [7. Actividades Clave](#-7-actividades-clave) | 🤝 [8. Socios Clave](#-8-socios-clave) | 💸 [9. Estructura de Costos](#-9-estructura-de-costos) |
-| 🌟 [10. Características Innovadoras](#-características-innovadoras) | 🌍 [11. Plan de Expansión](#-plan-de-expansión) | 🎯 [12. Objetivos SMART 2025-2027](#-objetivos-smart-2025-2027) |
-| 💡 [13. Ideas Adicionales](#-ideas-adicionales) | 📊 [14. Resumen General](#-resumen-general) | 👥 [15. Contribuidores](#-contribuidores) |
+<table>
+  <tr>
+    <td>🚀 <a href="#-1-propuesta-de-valor">Propuesta de Valor</a></td>
+    <td>👥 <a href="#-2-segmentos-de-clientes">Segmentos de Clientes</a></td>
+    <td>🌐 <a href="#-3-canales">Canales</a></td>
+  </tr>
+  <tr>
+    <td>❤️ <a href="#-4-relación-con-los-clientes">Relación con los Clientes</a></td>
+    <td>💵 <a href="#-5-fuentes-de-ingreso">Fuentes de Ingreso</a></td>
+    <td>🛠️ <a href="#-6-recursos-clave">Recursos Clave</a></td>
+  </tr>
+  <tr>
+    <td>🔧 <a href="#-7-actividades-clave">Actividades Clave</a></td>
+    <td>🤝 <a href="#-8-socios-clave">Socios Clave</a></td>
+    <td>💸 <a href="#-9-estructura-de-costos">Estructura de Costos</a></td>
+  </tr>
+  <tr>
+    <td>🌟 <a href="#-características-innovadoras">Características Innovadoras</a></td>
+    <td>🌍 <a href="#-plan-de-expansión">Plan de Expansión</a></td>
+    <td>🎯 <a href="#-objetivos-smart-2025-2027">Objetivos SMART 2025-2027</a></td>
+  </tr>
+  <tr>
+    <td>💡 <a href="#-ideas-adicionales">Ideas Adicionales</a></td>
+    <td>📊 <a href="#-resumen-general">Resumen General</a></td>
+    <td>👥 <a href="#-contribuidores">Contribuidores</a></td>
+  </tr>
+</table>
+
 ---
 
 ## 🔑 1. Propuesta de Valor
