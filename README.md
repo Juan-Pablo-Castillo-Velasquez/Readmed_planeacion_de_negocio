@@ -179,7 +179,7 @@ EcoFin se construye sobre **10 pilares clave**:
 ## 👥 Contribuidores
 Este proyecto ha sido posible gracias a las contribuciones de:
 
-<div style="display: flex; justify-content: center; gap: 40px; text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 40px; text-align: center; flex-wrap: wrap;">
 
   <div>
     <img src="https://avatars.githubusercontent.com/u/126941356?v=4" alt="Contribuidor 2's GitHub Profile" width="100" height="100" style="border-radius: 50%;">
