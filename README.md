@@ -179,28 +179,34 @@ EcoFin se construye sobre **10 pilares clave**:
 ## 👥 Contribuidores
 Este proyecto ha sido posible gracias a las contribuciones de:
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/126941356?v=4" alt="Contribuidor 2's GitHub Profile" width="100" height="100" style="border-radius: 50%;">
-  <br>
-  <strong>Idea & Planeación</strong>
-  <br>
-  <a href="mailto:juan.velasquez@openlms.net">juan.velasquez@openlms.net</a>
-</p>
+<div style="display: flex; justify-content: center; gap: 40px; text-align: center;">
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/126941356?v=4" alt="Contribuidor 2's GitHub Profile" width="100" height="100" style="border-radius: 50%;">
-  <br>
-  <strong>Desarrollor Ecofin</strong>
-  <br>
-  <a href="mailto:juan.velasquez@openlms.net">correo@jhon</a>
-</p>
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/126941356?v=4" alt="Contribuidor 2's GitHub Profile" width="100" height="100" style="border-radius: 50%;">
-  <br>
-  <strong>Modelo de Negocio</strong>
-  <br>
-  <a href="mailto:juan.velasquez@openlms.net">correo@fernando</a>
-</p>
+  <div>
+    <img src="https://avatars.githubusercontent.com/u/126941356?v=4" alt="Contribuidor 2's GitHub Profile" width="100" height="100" style="border-radius: 50%;">
+    <br>
+    <strong>Idea & Planeación</strong>
+    <br>
+    <a href="mailto:juan.velasquez@openlms.net">juan.velasquez@openlms.net</a>
+  </div>
+
+  <div>
+    <img src="https://avatars.githubusercontent.com/u/126941356?v=4" alt="Contribuidor 2's GitHub Profile" width="100" height="100" style="border-radius: 50%;">
+    <br>
+    <strong>Desarrollor Ecofin</strong>
+    <br>
+    <a href="mailto:correo@jhon">correo@jhon</a>
+  </div>
+
+  <div>
+    <img src="https://avatars.githubusercontent.com/u/126941356?v=4" alt="Contribuidor 2's GitHub Profile" width="100" height="100" style="border-radius: 50%;">
+    <br>
+    <strong>Modelo de Negocio</strong>
+    <br>
+    <a href="mailto:correo@fernando">correo@fernando</a>
+  </div>
+
+</div>
+
 
 ---
 
