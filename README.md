@@ -177,10 +177,23 @@ EcoFin se construye sobre **10 pilares clave**:
 ---
 
 ## 👥 Contribuidores
-- 💡 **Idea & Planeación**: Juan Pablo Castillo  
-- 👨‍💻 **Desarrollo**: Jhon EcoFin  
-- 📊 **Modelo de Negocio**: Fernando Estratégico  
-- 🌱 **Sostenibilidad**: Aliados ambientales y sociales  
+Este proyecto ha sido posible gracias a las contribuciones de:
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/143448141?v=4" alt="Juan Pablo's GitHub Profile" width="100" height="100" style="border-radius: 50%;">
+  <br>
+  <strong>Juan Pablo</strong>
+  <br>
+  <a href="mailto:JUANPABLO2007k@gmail.com">JUANPABLO2007k@gmail.com</a>
+</p>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/126941356?v=4" alt="Contribuidor 2's GitHub Profile" width="100" height="100" style="border-radius: 50%;">
+  <br>
+  <strong>Contribuidor 2</strong>
+  <br>
+  <a href="mailto:juan.velasquez@openlms.net">juan.velasquez@openlms.net</a>
+</p>
+
 
 ---
 
