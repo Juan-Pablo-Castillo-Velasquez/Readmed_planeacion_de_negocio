@@ -5,8 +5,6 @@ Plataforma financiera digital con enfoque sostenible, diseñada para fomentar el
   <img src="https://github.com/Juan-Pablo-Castillo-Velasquez/Readmed_planeacion_de_negocio/raw/main/ecofin.png" alt="EcoFin" width="600">
 </p>
 
-
-
 ---
 
 ## 📑 Tabla de Contenido
@@ -31,10 +29,10 @@ Plataforma financiera digital con enfoque sostenible, diseñada para fomentar el
     <td>🌍 <a href="#-plan-de-expansión">Plan de Expansión</a></td>
   </tr>
   <tr>
+    <td>🏢 <a href="#-dirección-comercial">Dirección Comercial</a></td>
     <td>🎯 <a href="#-objetivos-smart-2025-2027">Objetivos SMART</a></td>
     <td>💡 <a href="#-ideas-adicionales">Ideas Adicionales</a></td>
     <td>📊 <a href="#-resumen-general">Resumen General</a></td>
-    <td>👥 <a href="#-contribuidores">Contribuidores</a></td>
   </tr>
 </table>
 
@@ -156,12 +154,36 @@ EcoFin se construye sobre **10 pilares clave**:
 
 ---
 
+## 🏢 Dirección Comercial
+
+La **Dirección Comercial** de EcoFin / Fintech Verde Colombia gestiona la estrategia de ventas B2B, marketing y desarrollo de negocios, enfocándose en PYMES sostenibles y empresas con certificaciones ambientales verificables. Esta área es clave para consolidar la expansión regional y garantizar la propuesta de valor diferenciada de la empresa.  
+
+### Estructura del Equipo Comercial
+| Área | Personas | Función Principal |
+|------|---------|-----------------|
+| Ejecutivos de ventas | 22 | Especializados por sector: manufactura sostenible, servicios ambientales, agricultura orgánica, energías renovables. Captación y gestión de clientes. |
+| Marketing Digital | 8 | Estrategias B2B, contenido educativo sobre finanzas verdes y regulaciones ambientales, generación de leads. |
+| Business Developers | 5 | Alianzas estratégicas con certificadoras, gremios y cámaras de comercio; oportunidades de expansión internacional. |
+
+**Total Dirección Comercial:** 35 profesionales  
+
+### Estrategias Clave
+- **Segmentación sectorial:** Cada ejecutivo aborda necesidades específicas de cada industria verde.  
+- **Propuesta de valor diferenciada:** Mejores condiciones financieras para empresas con certificaciones ambientales.  
+- **Marketing educativo B2B:** Contenido sobre finanzas verdes, regulaciones y beneficios de certificaciones.  
+- **Expansión internacional:** Desarrollo de relaciones estratégicas en Centroamérica adaptadas a regulaciones locales.  
+
+---
+
 ## 🎯 Objetivos SMART 2025-2027
-1. 🏁 Establecer operaciones en Costa Rica en los próximos **6 meses**.  
-2. 👥 Adquirir **2,500 clientes empresariales en 24 meses**.  
-3. 💳 Procesar **USD $800M en transacciones en 2 años**.  
-4. ⏱️ Reducir onboarding a **menos de 4 semanas en 12 meses**.  
-5. 🤝 Crear **10 alianzas estratégicas en Centroamérica**.  
+
+| Objetivo | Específico | Medible | Alcanzable | Relevante | Plazo |
+|----------|------------|---------|------------|-----------|-------|
+| Incrementar ventas B2B | Aumentar ventas a PYMES con certificaciones ambientales | +15% ingresos año a año | Sí, con ejecutivos especializados y marketing B2B | Alineado con misión sostenible | 12 meses |
+| Expandir presencia Centroamérica | Abrir operaciones en 2 países | Apertura de oficinas y contratos iniciales | Sí, con apoyo de business developers | Clave para expansión internacional | 12 meses |
+| Mejorar retención clientes | Reducir pérdida de clientes B2B | Churn -10% | Sí, mediante seguimiento personalizado | Incrementa ingresos y fidelización | 6-12 meses |
+| Fortalecer alianzas estratégicas | +5 nuevas alianzas con certificadoras | Número de alianzas firmadas | Sí, con business developers | Refuerza propuesta de valor | 1 año |
+| Incrementar engagement marketing | +25% interacción con contenido B2B | Visitas, leads y descargas | Sí, con equipo de marketing digital | Generación de leads y posicionamiento | 6 meses |
 
 ---
 
@@ -194,7 +216,7 @@ Este proyecto ha sido posible gracias a las contribuciones de:
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/106933531?v=4" width="100" height="100" style="border-radius:50%;"><br>
       <strong>Gerente de Desarrollo de Negocio Internacional</strong><br>
-      <a href="mailto:john.cortes.r@gmail.com">john.cortes.r@gmail.com /a>
+      <a href="mailto:john.cortes.r@gmail.com">john.cortes.r@gmail.com</a>
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/198638236?v=4" width="100" height="100" style="border-radius:50%;"><br>
@@ -203,9 +225,6 @@ Este proyecto ha sido posible gracias a las contribuciones de:
     </td>
   </tr>
 </table>
-
-
-
 
 ---
 
