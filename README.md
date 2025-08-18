@@ -188,17 +188,17 @@ Este proyecto ha sido posible gracias a las contribuciones de:
   <tr>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/126941356?v=4" width="100" height="100" style="border-radius:50%;"><br>
-      <strong>Idea & Planeación Ecofin</strong><br>
+      <strong>Director de Éxito del Cliente (Customer Success)</strong><br>
       <a href="mailto:juan.velasquez@openlms.net">juan.velasquez@openlms.net</a>
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/106933531?v=4" width="100" height="100" style="border-radius:50%;"><br>
-      <strong>Gerente de Relaciones Bancarias</strong><br>
+      <strong>Gerente de Desarrollo de Negocio Internacional</strong><br>
       <a href="mailto:john.cortes.r@gmail.com">john.cortes.r@gmail.com /a>
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/198638236?v=4" width="100" height="100" style="border-radius:50%;"><br>
-      <strong>Gerente de Negocios Internacionales</strong><br>
+      <strong>Director de Marketing Internacional o Director de Adquisición de Clientes</strong><br>
       <a href="mailto:fernandogutierrezrojas09@gmail.com">fernandogutierrezrojas09@gmail.com</a>
     </td>
   </tr>
