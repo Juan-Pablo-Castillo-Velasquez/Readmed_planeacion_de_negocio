@@ -32,7 +32,6 @@ Plataforma financiera digital con enfoque sostenible, diseñada para fomentar el
     <td>🏢 <a href="#-dirección-comercial">Dirección Comercial</a></td>
     <td>🎯 <a href="#-objetivos-smart-2025-2027">Objetivos SMART</a></td>
     <td>💡 <a href="#-ideas-adicionales">Ideas Adicionales</a></td>
-    <td>📊 <a href="#-resumen-general">Resumen General</a></td>
   </tr>
 </table>
 
