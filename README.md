@@ -143,15 +143,19 @@ EcoFin se construye sobre **10 pilares clave**:
 
 ---
 
-## 🌍 Plan de Expansión
+## 🌍 Plan de Expansión con Objetivos Medibles
 
-| **Fase** | **País** | **Oportunidad** | **Reto** | **Inversión / Tiempo** |
-|----------|----------|-----------------|----------|------------------------|
-| 1 | 🇨🇷 Costa Rica | Mercado PYME con bajo acceso a crédito | Licencia SUGEF | USD $500K / 6-12 meses |
-| 2 | 🇬🇹 Guatemala | 95% PYMEs sin acceso a crédito formal, integración con remesas | Regulación en desarrollo | Mediano plazo |
-| 3 | 🇵🇦 Panamá | Hub financiero, dolarización | Licencias costosas y banca consolidada | Largo plazo |
+| **Fase** | **País**     | **Oportunidad**                                   | **Reto**                          | **Inversión / Tiempo**      | **Objetivos Medibles**                                                  |
+|----------|--------------|--------------------------------------------------|----------------------------------|----------------------------|------------------------------------------------------------------------|
+| 1        | 🇨🇷 Costa Rica | Mercado PYME con bajo acceso a crédito           | Licencia SUGEF                   | USD $500K / 6-12 meses     | - Obtener licencia SUGEF en 6 meses.<br>- Captar 50 PYMEs usuarias en 12 meses.<br>- Generar ingresos iniciales de USD $200K en el primer año.  |
+| 2        | 🇬🇹 Guatemala | 95% PYMEs sin acceso a crédito formal, integración con remesas | Regulación en desarrollo          | Mediano plazo (12-18 meses) | - Lanzar piloto con al menos 500 usuarios.<br>- Formalizar alianzas con 3 actores clave del sector financiero.<br>- Alcanzar 10% retención de usuarios piloto.   |
+| 3        | 🇵🇦 Panamá    | Hub financiero, dolarización                      | Licencias costosas y banca consolidada | Largo plazo (18-24 meses) | - Realizar estudio de mercado y normativo en 12 meses.<br>- Establecer 3 alianzas estratégicas.<br>- Preparar solicitud de licencia para final del segundo año.<br>- Planificar lanzamiento comercial para el tercer año. |
 
 ---
+
+Este plan define objetivos claros, medibles y alineados con los retos específicos de cada país para asegurar una expansión exitosa y sostenible de EcoFin en la región Centroamericana.
+
+
 
 ## 🏢 Dirección Comercial
 
